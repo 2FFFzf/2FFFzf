@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @2FFFzf (Vanilll4)
+- 👋 Hello World
 - 👀 I’m interested in microcontroller
-- 🌱 I’m currently learning C++ and deeplearning
+- 🌱 I’m currently learning
 - 💞️ Have a nice day!
 - 📫 How to reach me :
 dm me on twitter @FFFzf 
-
-<!---
-2FFFzf/2FFFzf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
